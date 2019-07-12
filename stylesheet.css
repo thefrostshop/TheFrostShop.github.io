@@ -4,15 +4,17 @@
 body { /* Main Part of the website */
   font-family: "Bebas Neue", helvetica, arial, sans-serif;
   margin: 2em;
-  background-color: #545454;
+  background-image: url("FrostShopWebBanner.png");
 }
 
 h1 { /* Headings */
   font-style: bold;
   color: #4398FF;
+  background-color: #545454;
 }
 
 p { /* paragraths */
   font-style: bold;
   color: white;
+  background-color: #545454;
 }
