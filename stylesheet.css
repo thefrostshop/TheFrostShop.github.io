@@ -15,4 +15,5 @@ h1 { /* Headings */
 p { /* paragraths */
   font-style: bold;
   color: white;
+  background-color: #ADADAD;
 }
