@@ -1,18 +1,30 @@
-/* CSS files add styling rules to your content */
-/* Stylesheet for The Frost Shop's page */
-
-body { /* Main Part of the website */
-  font-family: "Bebas Neue", helvetica, arial, sans-serif;
-  margin: 2em;
-  background-image: url("FrostShopWebBanner.png");
-}
-
-h1 { /* Headings */
-  font-style: bold;
+body {
+  font-family: "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 0.0em;
+  background-color: #545454; /*The Frost Shop Clasic Gray Color*/
   color: white;
 }
 
-p { /* paragraths */
+h1 {
   font-style: bold;
   color: white;
+  font-family: "Tahoma";
+}
+
+p {
+  color: white;
+  font-family: Sans-serif;
+}
+
+.header {
+  padding: 30px;
+  text-align: center;
+  background: #8d8a8a;
+}
+
+#heading {
+  font-family: "Tahoma";
+  font-style: bold;
+  font-size: 48px;
+  color: #545454
 }
